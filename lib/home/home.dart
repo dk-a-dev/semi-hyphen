@@ -1,1 +1,1 @@
-// TODO Implement this library.
+export 'view/home_page.dart';
